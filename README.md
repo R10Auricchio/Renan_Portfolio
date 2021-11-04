@@ -57,7 +57,7 @@ For this activity you are going to use HTML, Bootstrap, and possibly some custom
 - Each file should represent a certain page of your portfolio.
 - You should show your knowledge of the various tools in bootstrap, you will find most of what you need in the categories highlighted in the image below.
 
-![](./assets/categories.png)
+![image](https://user-images.githubusercontent.com/92484712/140428036-8ff7bcff-f827-430b-94e2-f013399c14f1.png)
 
 ## Where to submit your portfolio
 [Go here to add your live URL next your name](https://docs.google.com/spreadsheets/d/1HCR4qc6XRoLH4LPd-vCFdZdcMZENNamadV_BgyD3jB8/edit?usp=sharing)
